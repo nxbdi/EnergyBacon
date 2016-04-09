@@ -15,3 +15,6 @@ Heating Degree Days and Cooling Degree Days
 
 http://w1.weather.gov/xml/current_obs/
 http://w1.weather.gov/xml/current_obs/seek.php?state=ca
+
+https://github.com/tlaukkan/zigbee4java
+https://crawdad.cs.dartmouth.edu/buffalo/phonelab-wifi/20160309/
